@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="slider">
-	<img src="images/scrShot1.png" />
-	<img src="images/scrShot2.png" />
-	<div class="just_text">This one's just text.</div>
-	<img src="images/scrShot3.png" />
-	<div><img src="images/scrShot4.png" /><span class="caption">This one has a caption</span></div>
+	<div><img src="images/scrShot1.png" /><span class="caption">Some of the resrouces added: Hemp, Joints, & Blunts</span></div>
+	<div><img src="images/scrShot2.png" /><span class="caption">The Biofuel Plant, a green alternative to coal</span></div>
+	<div><img src="images/scrShot3.png" /><span class="caption">The Hemp Factory, produces industrial fibers</span></div>
+	<div><img src="images/scrShot4.png" /><span class="caption">New Cigar Factory upgrades</span></div>
 </div>
 
 ## Features:
