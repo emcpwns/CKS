@@ -18,7 +18,9 @@ layout: default
 * New Cigar Factory upgrades: Roll Joints & Roll Blunts.
 * New Pharmaceutical Factory upgrades: Make Dabs - BHO, & Make Dabs - Rosin Tech.
 * New Chocolate Factory upgrades: Edible Candies & Edible Chocolates
-***
+
+======
+
 ## Resource Details
 ### Hemp
 **Era Unlocked:** Colonial  
