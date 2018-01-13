@@ -9,7 +9,7 @@ layout: default
 	<div><img src="images/scrShot4.png" /><span class="caption">New Cigar Factory upgrades</span></div>
 </div>
 
-## Features:
+## Features
 * Adds 6 new resources. Hemp, Cannabutter, Joints, Blunts, Dabs, & Edibles.
 * New production building: The Hemp Factory.
 * New power plant: Biofuel Plant.
@@ -18,7 +18,7 @@ layout: default
 * New Cigar Factory upgrades: Roll Joints & Roll Blunts.
 * New Pharmaceutical Factory upgrades: Make Dabs - BHO, & Make Dabs - Rosin Tech.
 * New Chocolate Factory upgrades: Edible Candies & Edible Chocolates
-
+***
 ## Resource Details
 ### Hemp
 **Era Unlocked:** Colonial  
@@ -48,4 +48,4 @@ layout: default
 ### Edibles
 **Era Unlocked:** Modern  
 **Resources:** 200 Dabs --> 400 Edibles  
-**Notes:** The upgrade runs a pricey budget, but effectivley doubles dab profits.  
+**Notes:** The upgrade runs a pricey budget, but effectivley doubles dab profits.  Can also be traded for improved foreign relations.
