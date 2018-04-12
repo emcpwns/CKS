@@ -35,34 +35,34 @@ layout: default
 
 ## Building & Upgrade Details
 ### Cannabis Plantation Upgrade
-**Hippy Commune -** Doubles workforce & budget of the cannabis plantation, increases effectivness by 125. Can also work great to soak up a lot of unemployed illiterate Tropicans.
+**Hippy Commune -** Doubles workforce & budget of the cannabis plantation, increases effectivness by 125. Can also work great to soak up a lot of unemployed illiterate Tropicans.  
 
 ### New Bulding: Hemp Factory
-This small hemp processining workshop (modeled on the Jewlery Factory) comes with multiple upgrades, and allows you to produce hemp for your islands industrial needs.
+This small hemp processining workshop (modeled on the Jewlery Factory) comes with multiple upgrades, and allows you to produce hemp for your islands industrial needs.  
 
 ### Cigar Factory Upgrades
-**Roll Joints -** Processes cannabis into joints. (Can be stressful on teamsters so the Resource Manager mod is highly reccomended.)
-**Roll Blunts -** Processes cannabis into blunts.
+**Roll Joints -** Processes cannabis into joints. (Can be stressful on teamsters so the Resource Manager mod is highly reccomended.)  
+**Roll Blunts -** Processes cannabis into blunts.  
 
 ### Creamery Upgrade (Requires DLC)
-**Chrun Cannabutter -** Processes cannabis and milk into cannabutter.
+**Chrun Cannabutter -** Processes cannabis and milk into cannabutter.  
 
 ### New Bulding: Biofuel Plant
-This wonder of technology available only to Tropicans who truly believe, processes hemp directly into electricity! Amazing!
+This wonder of technology available only to Tropicans who truly believe, processes hemp directly into electricity! Amazing!  
 
 ### Textile Mill Upgrade
-**Hemp Fiber Blend -** Processes Hemp, Cotton, & Wool (all required) into lots of cloth.
+**Hemp Fiber Blend -** Processes Hemp, Cotton, & Wool (all required) into lots of cloth.  
 
 ### Fashion Company Upgrade
-**Hemp Fiber Blend -** Further infuse hemp into your clothing. Processes hemp and cloth into lots of appearal.
+**Hemp Fiber Blend -** Further infuse hemp into your clothing. Processes hemp and cloth into lots of appearal.  
 
 ### Pharmaceutical Factory Upgrades
-**Make Dabs (BHO) -** Processes cannabis into highly valuable dabs.
-**Make Dabs (Rosin Tech) -** Same as previous upgrade, but provides additional production cycle.
+**Make Dabs (BHO) -** Processes cannabis into highly valuable dabs.  
+**Make Dabs (Rosin Tech) -** Same as previous upgrade, but provides additional production cycle.  
 
 ### Chocolate Factory Upgrades 
-**Edible Chocolates -** Processes dabs into twice as much edibles.
-**Edible Candies -** Same as previous upgrade, but provides additional production cycle.
+**Edible Chocolates -** Processes dabs into twice as much edibles.  
+**Edible Candies -** Same as previous upgrade, but provides additional production cycle.  
 
 <hr>  
 
