@@ -37,7 +37,7 @@ layout: default
 ### Cannabis Plantation Upgrade
 **Hippy Commune -** Doubles workforce & budget of the cannabis plantation, increases effectivness by 125. Can also work great to soak up a lot of unemployed illiterate Tropicans.  
 
-### New Bulding: Hemp Factory
+### New Building: Hemp Factory
 This small hemp processining workshop (modeled on the Jewlery Factory) comes with multiple upgrades, and allows you to produce hemp for your islands industrial needs.  
 
 ### Cigar Factory Upgrades
@@ -45,9 +45,9 @@ This small hemp processining workshop (modeled on the Jewlery Factory) comes wit
 **Roll Blunts -** Processes cannabis into blunts.  
 
 ### Creamery Upgrade (Requires DLC)
-**Chrun Cannabutter -** Processes cannabis and milk into cannabutter.  
+**Churn Cannabutter -** Processes cannabis and milk into cannabutter.  
 
-### New Bulding: Biofuel Plant
+### New Building: Biofuel Plant
 This wonder of technology available only to Tropicans who truly believe, processes hemp directly into electricity! Amazing!  
 
 ### Textile Mill Upgrade
