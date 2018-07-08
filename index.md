@@ -6,6 +6,7 @@ layout: default
 * Adds 6 new resources. Hemp, Cannabutter, Joints, Blunts, Dabs, & Edibles.
 * New production building: The Hemp Factory.
 * New power plant: Biofuel Plant.
+* New healthcare building: Medical Cannabis Dispensary
 * 20+ New trades.
 * New Creamery upgrade: Infuse with Cannabis.
 * New Cigar Factory upgrades: Roll Joints & Roll Blunts.
@@ -26,7 +27,7 @@ layout: default
 ## Requirements
 1. [Mod Loader 2.4](https://tropicomodding.org/mod-loader-2-4-required-file-t28.html) by DarthPresidente  
 2. [DrugTrade 2.00](https://tropicomodding.org/drug-trade-updated-jan-10-2015-t20.html) by DarthPresidente  
-3. *[Resource Manager 3.1](http://tropicomodding.org/resource-manager-2-0-major-update-t52.html) OR *[Resource Manager 4.0 Test Version](https://tropicomodding.org/resource-manager-4-0-test-version-1-now-available-t354.html) by DarthPresidente  
+3. *[Resource Manager 4.0](https://tropicomodding.org/resource-manager-4-0-new-4-21-18-t370.html) by DarthPresidente  
 4. Place contents of this .zip file into your Tropico 5 folder to maintain file structure. 
 5. A fresh game save  
 <code>&ast;</code> = Highly recommended, but not required for fuctionality
@@ -34,6 +35,9 @@ layout: default
 <hr>
 
 ## Building & Upgrade Details
+### New Building: Medical Cannabis Dispensary
+This helpful building will distribute cannabis to your sick citizens. Available as soon as the game starts, the healthcare provided starts out worse than any of the vanilla healthcare buildings. However, with new upgrades every era, it can become one of the best and can even generate some profit.
+
 ### Cannabis Plantation Upgrade
 **Hippy Commune -** Doubles workforce & budget of the cannabis plantation, increases effectivness by 125. Can also work great to soak up a lot of unemployed illiterate Tropicans.  
 
