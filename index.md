@@ -15,6 +15,13 @@ layout: default
 
 <hr>  
 
+## Coming Soon
+* Tourism/entertainment building: Recreational Cannabis Emporium 
+* A semi-historically accurate campaign style mission centered around the cannabis industires.
+* Multiple bug fixes.
+
+<hr>  
+
 <div class="slider">
 	<div><img src="images/scrShot1.png" /><span class="caption">Some of the resrouces added: Hemp, Joints, & Blunts</span></div>
 	<div><img src="images/scrShot2.png" /><span class="caption">The Biofuel Plant, a green alternative to coal</span></div>
@@ -33,7 +40,7 @@ layout: default
 6. A fresh game save  
 <code>&ast;</code> = Highly recommended, but not required for fuctionality
 
-<hr>
+<hr>  
 
 ## Building & Upgrade Details
 ### New Building: Medical Cannabis Dispensary
