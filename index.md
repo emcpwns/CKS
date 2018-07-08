@@ -27,9 +27,10 @@ layout: default
 ## Requirements
 1. [Mod Loader 2.4](https://tropicomodding.org/mod-loader-2-4-required-file-t28.html) by DarthPresidente  
 2. [DrugTrade 2.00](https://tropicomodding.org/drug-trade-updated-jan-10-2015-t20.html) by DarthPresidente  
-3. *[Resource Manager 4.0](https://tropicomodding.org/resource-manager-4-0-new-4-21-18-t370.html) by DarthPresidente  
-4. Place contents of this .zip file into your Tropico 5 folder to maintain file structure. 
-5. A fresh game save  
+3. *[Resource Manager 4.0](https://tropicomodding.org/resource-manager-4-0-new-4-21-18-t370.html) by DarthPresidente
+4. (For updating) Remove ANY previous instances of this mod, including the BuidlingsIcons and .LUA file/s.
+5. Place contents of this .zip file into your Tropico 5 folder to maintain file structure. 
+6. A fresh game save  
 <code>&ast;</code> = Highly recommended, but not required for fuctionality
 
 <hr>
